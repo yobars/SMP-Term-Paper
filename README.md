@@ -10,8 +10,8 @@ strong correlation between positive UX and continued application usage, resultin
 satisfaction.
 
 # Methodology
-A. Survey Design and Distribution
-B. Webscraping Google Playstore Reviews
-C. Data Collection and Preprocessing
-D. Data Exploration and Visualization - Usability, User Engagement
-E. Sentiment Analysis - DistilBERT, RoBERTa 
+A. Survey Design and Distribution <br />
+B. Webscraping Google Playstore Reviews <br />
+C. Data Collection and Preprocessing <br />
+D. Data Exploration and Visualization - Usability, User Engagement <br />
+E. Sentiment Analysis - DistilBERT, RoBERTa <br />
